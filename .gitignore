@@ -1,0 +1,9 @@
+Library/
+Logs/
+Temp/
+ios/
+.fake
+*.apk
+*.unitypackage
+*.log
+.DS_Store
