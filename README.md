@@ -69,9 +69,13 @@ Each scene is designed to be a standalone demonstration of a specific AR capabil
 
 Notes: Do not enable Occulus provider in `XR Plug-in Management` because the android phone doesn't support.
 
-## Testing
+## Official Unity Documentation and Course
 
-Camera Focus: Upon app launch, direct the front camera towards your face.
+For further learning and detailed documentation, refer to the following resources:
 
-Expected Result: A green mask should appear on your face, signifying successful implementation.
+- **Unity AR Foundation Documentation**: [Unity AR Foundation Documentation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@latest)
+- **Unity Learn - AR Development Pathway**: [Unity Learn AR Development Pathway](https://learn.unity.com/pathway/mobile-ar-development)
+
+
+These resources provide comprehensive guides, tutorials, and best practices for developing AR applications using Unity.
 
