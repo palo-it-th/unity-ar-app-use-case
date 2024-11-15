@@ -2,6 +2,15 @@
 
 This project showcases the development of an AR application using the Unity Engine version 6. It serves as a comprehensive guide for building AR experiences, demonstrating key features such as face tracking, image tracking, and plane detection. Whether you're targeting iOS or Android platforms, this project provides step-by-step instructions and essential dependencies to get you started on your AR development journey.
 
+## Prerequisites
+
+Before you begin, ensure you have the following software installed:
+
+- **JetRider IDE**: Required to open and edit the source code. You can download it from [JetRider Official Website](https://www.jetrider.com/download).
+- **Unity Engine version 6**: Necessary for building and running the AR application.
+
+Follow the installation instructions provided on the respective websites to set up these tools on your development machine.
+
 ## Dependencies
 
 This project relies on the following dependencies:
