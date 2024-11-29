@@ -14,17 +14,17 @@ public class MainMenuManager : MonoBehaviour
     void Start()
     {
         arFaceExample1.onClick.AddListener(() => {
-            SceneManager.LoadScene("ARFaceFilter1");
+            SceneManager.LoadScene("ARFaceTracking1");
         });
         arFaceExample2.onClick.AddListener(() => {
-            SceneManager.LoadScene("ARFaceFilter2");
+            SceneManager.LoadScene("ARFaceTracking2");
         });
         arImageMarker.onClick.AddListener(() => {
-            SceneManager.LoadScene("ARImageMarker");
+            SceneManager.LoadScene("ARImageTracking");
         });
         arPlaneMarker.onClick.AddListener(() =>
         {
-            SceneManager.LoadScene("ARCreativeWork");
+            SceneManager.LoadScene("ARPlaneDetection");
         });
     }
 

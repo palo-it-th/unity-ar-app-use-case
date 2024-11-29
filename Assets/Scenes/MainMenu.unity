@@ -522,6 +522,7 @@ GameObject:
   - component: {fileID: 1455210749}
   - component: {fileID: 1455210748}
   - component: {fileID: 1455210752}
+  - component: {fileID: 1455210753}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -581,7 +582,7 @@ Canvas:
   m_RenderMode: 0
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
-  m_PixelPerfect: 1
+  m_PixelPerfect: 0
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
@@ -629,6 +630,26 @@ MonoBehaviour:
   arFaceExample2: {fileID: 7876748105869864226}
   arImageMarker: {fileID: 2125257126}
   arPlaneMarker: {fileID: 8100376021730643205}
+--- !u!114 &1455210753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1455210747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: -1
+  m_MinHeight: -1
+  m_PreferredWidth: -1
+  m_PreferredHeight: -1
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
 --- !u!1 &1630636280
 GameObject:
   m_ObjectHideFlags: 0

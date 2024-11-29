@@ -77,7 +77,7 @@ public class ARCreativeInputManager : MonoBehaviour
     {
         // Allow the user to select a marker only when a new plane is starting to create
         if(arg.added.Count > 0){
-            if(currentState == GameState.ScanField){  
+            if(currentState == GameState.ScanField){ 
                 tutorialUIObjects[(int)currentState].SetActive(false);
                 currentState = GameState.SelectMarker;
                 tutorialUIObjects[(int)currentState].SetActive(true);
