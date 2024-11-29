@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/MobileARTemplateAssets/UI/Scripts/CutoutMaskUI.cs" />
-    <Compile Include="Assets/Unity.VisualScripting.Generated/VisualScripting.Core/AotStubs.cs" />
     <Compile Include="Assets/Scripts/MainMenuManager.cs" />
     <Compile Include="Assets/Scripts/ARCreativeInputManager.cs" />
     <Compile Include="Assets/Scripts/BackToMainMenu.cs" />
